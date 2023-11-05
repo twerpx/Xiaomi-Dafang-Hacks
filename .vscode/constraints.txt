@@ -1,0 +1,14 @@
+# requirements.txt
+
+bitarray==2.9.2
+bitstring==4.1.4
+cffi==1.16.0
+cryptography==42.0.1
+ecdsa==0.18.0
+esptool==4.7.0
+intelhex==2.3.0
+pycparser==2.21
+pyserial==3.5
+PyYAML==6.0.1
+reedsolo==1.7.0
+six==1.16.0
